@@ -1,0 +1,4 @@
+;debian=sbcl
+(setf *top-level-error-action* :break)
+(set-prefix-key (kbd "s-t"))
+;(run-shell-command "mate-panel&")

@@ -1,0 +1,5 @@
+*customization: -color
+XTerm.*.selectToClipboard: true
+XTerm.*.visualBell: true
+UXTerm.*.selectToClipboard: true
+UXTerm.*.visualBell: true
